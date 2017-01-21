@@ -5,7 +5,17 @@
     [  
         { "id": "clipboard" },
         { 
-        	"command": "paste_as_one_line"
+          "command": "paste_as_one_line"
+        }
+        
+    ]  
+},  {  
+    "id": "edit",  
+    "children":  
+    [  
+        { "id": "clipboard" },
+        { 
+        	"command": "paste_as_one_line_with_commas"
         }
         
     ]  

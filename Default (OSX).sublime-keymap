@@ -1,5 +1,6 @@
 [  
     {   
-        "keys": ["super+alt+v"], "command": "paste_as_one_line"
+        "keys": ["super+alt+v"], "command": "paste_as_one_line",
+        "keys": ["super+alt+,"], "command": "paste_as_one_line_with_commas"
     }  
 ]

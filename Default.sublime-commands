@@ -1,0 +1,5 @@
+[
+  { "command": "paste_as_one_line_with_commas", "caption": "Paste As One Line: Commas"},
+  { "command": "paste_as_one_line", "caption": "Paste As One Line: Whitespace"}
+]
+
